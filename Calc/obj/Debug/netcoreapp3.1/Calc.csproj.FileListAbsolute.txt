@@ -1,0 +1,16 @@
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\ua4aeu\Desktop\WF\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.Form1.resources
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+C:\Users\ua4aeu\Desktop\WF\Calc\obj\Debug\netcoreapp3.1\Calc.Properties.Resources.resources
